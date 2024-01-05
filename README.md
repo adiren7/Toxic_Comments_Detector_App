@@ -7,4 +7,4 @@ Developing an anti-bullying app that can detect toxic comments, in the digital s
 
 - <a href="DarijaBert_toxic_comments.ipynb" > DarijaBert_toxic_comments.ipynb</a> : detect toxic comments using darija bert model
 
-- Run <a href="app.py" > app.py</a> : to run streamlit app
+- <a href="app.py" > app.py</a> : to run streamlit app
