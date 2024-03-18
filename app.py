@@ -19,7 +19,7 @@ def predict_from_ytb(youtube_url):
     tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 
     # Data scraping and preprocessing
-    DEVELOPER_KEY = "AIzaSyAjxeM_uYL3XtSnr5EZjXMeuVod__CV3fo"
+    DEVELOPER_KEY = "Set your developer Key"
 
     YOUTUBE_API_SERVICE_NAME = "youtube"
     YOUTUBE_API_VERSION = "v3"
