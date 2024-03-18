@@ -11,11 +11,11 @@ In this project, we aim to address the issue of toxicity in online discussions, 
 
 ### Web Scraping
 
-The initial step involves scraping data from YouTube comments sections. This process is detailed in the provided notebook [`web_scraping.ipynb`](https://github.com/adiren7/Toxic_Comments_Detector_App/blob/main/data_collection_preprocessing.ipynb). By extracting comments from various YouTube videos, we create a diverse dataset for training our toxicity detection models.
+The initial step involves scraping data from YouTube comments sections. This process is detailed in the provided notebook [`data_collection_preprocessing.ipynb`](https://github.com/adiren7/Toxic_Comments_Detector_App/blob/main/data_collection_preprocessing.ipynb). By extracting comments from various YouTube videos, we create a diverse dataset for training our toxicity detection models.
 
 ### Toxic Comment Detection
 
-Next, we delve into the heart of the project: toxic comment detection. We've developed sophisticated machine learning models utilizing state-of-the-art techniques such as BERT and LSTM. The notebook [`toxic_detection.ipynb`](https://github.com/adiren7/Toxic_Comments_Detector_App/blob/main/DarijaBert_toxic_comments.ipynb) elaborates on the model training process, evaluation metrics, and performance analysis.
+Next, we delve into the heart of the project: toxic comment detection. We've developed sophisticated machine learning models utilizing state-of-the-art techniques such as BERT and LSTM. The notebook [`DarijaBert_toxic_comments.ipynb`](https://github.com/adiren7/Toxic_Comments_Detector_App/blob/main/DarijaBert_toxic_comments.ipynb) elaborates on the model training process, evaluation metrics, and performance analysis.
 
 ### Deployment with Gradio
 
