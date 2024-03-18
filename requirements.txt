@@ -1,0 +1,7 @@
+datasets
+apiclient
+pyarabic
+langdetect
+accelerate 
+transformers
+gradio
