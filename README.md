@@ -1,7 +1,7 @@
 # Toxic Comments Detection App
 
 
-Welcome to the Toxic Comments Detection App! This project utilizes web scraping techniques to gather data from the YouTube platform, employs cutting-edge machine learning models based on BERT and LSTM models, and finally deploys it into an accessible application using Gradio.
+Welcome to the Toxic Comments Detection App! This project utilizes web scraping techniques to gather data from the YouTube platform, employs cutting-edge deep learning models based on BERT and LSTM models, and finally deploys it into an accessible application using Gradio.
 
 ## Overview
 
@@ -15,11 +15,11 @@ The initial step involves scraping data from YouTube comments sections. This pro
 
 ### Toxic Comment Detection
 
-Next, we delve into the heart of the project: toxic comment detection. We've developed sophisticated machine learning models utilizing state-of-the-art techniques such as BERT and LSTM. The notebook [`DarijaBert_toxic_comments.ipynb`](https://github.com/adiren7/Toxic_Comments_Detector_App/blob/main/DarijaBert_toxic_comments.ipynb) elaborates on the model training process, evaluation metrics, and performance analysis.
+Next, we delve into the heart of the project: toxic comment detection. We've developed sophisticated deep learning models utilizing BERT and LSTM. The notebook [`DarijaBert_toxic_comments.ipynb`](https://github.com/adiren7/Toxic_Comments_Detector_App/blob/main/DarijaBert_toxic_comments.ipynb) elaborates on the model training process, evaluation metrics, and performance analysis.
 
 ### Deployment with Gradio
 
-To make our solution accessible and user-friendly, we've deployed the toxicity detection model into an interactive web application using Gradio. Users can easily input comments and receive real-time predictions on their toxicity levels. No prior knowledge of machine learning is required, making it accessible to a wide range of users.
+To make our solution accessible and user-friendly, we've deployed the toxicity detection model into an interactive web application using Gradio. Users can easily input Youtube video url and receive real-time predictions on their toxicity levels. No prior knowledge is required, making it accessible to a wide range of users.
 
 ## Getting Started
 
